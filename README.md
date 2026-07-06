@@ -91,11 +91,7 @@ system/
 
 ---
 
-## 👨‍💻 Author
 
-**Muhammad Hanif Abdurrahman**
-
-- GitHub : https://github.com/USERNAME
 
 ---
 
